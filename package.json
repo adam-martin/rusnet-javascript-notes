@@ -1,0 +1,26 @@
+{
+  "name": "rusnet-javascript-notes",
+  "version": "1.0.0",
+  "description": "#javascript channel support on RusNet",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "gulp",
+    "start": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rusnet-collaborators/rusnet-javascript-notes.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rusnet-collaborators/rusnet-javascript-notes/issues"
+  },
+  "homepage": "https://github.com/rusnet-collaborators/rusnet-javascript-notes",
+  "devDependencies": {
+    "gulp": "^3.8.11",
+    "gulp-markdown": "^1.0.0",
+    "gulp-shell": "^0.4.0",
+    "gulp-sync": "^0.1.4"
+  }
+}

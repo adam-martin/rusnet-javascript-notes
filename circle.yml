@@ -1,0 +1,7 @@
+machine:
+  node:
+    version: 0.11.8
+
+dependencies:
+  pre:
+    - npm install adam-martin/surge -g
